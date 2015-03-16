@@ -14,7 +14,7 @@ public class GameTester {
 	public static void main(String[] args) {
 		final int WIDTH = 700;
 		final int HEIGHT = 650;
-		JFrame frame = new JFrame("Pacman Game");
+		JFrame frame = new JFrame("Creature Game");
 		frame.setLayout(new BorderLayout());
 
 		//adds the TimerPanel to the frame
